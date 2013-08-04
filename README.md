@@ -19,17 +19,20 @@ Massively complicated, but works out around **10%** per unit income/month.
 
 ###Dividend Tax
 
-Depends on your overall income tax band:
+Amount: 
 
-
+        Income Tax Band
     | upto 32,010     | **10%**
     | 32,1010 to 150k | **32.5%**
     | 150k+           | **37.5%**
 
 ###VAT
 
- - **13%** (but I bill at **20%** to cover the loss of the ability to reclaim the VAT for purchases under 2000 GBP)
- 
+Amount: **13%** (but bill at **20%** to cover the loss of the ability to reclaim the VAT for purchases under 2000 GBP)
+Paid: **quartely** calculated on invoices submitted during that quarter.
+
+Notes:
+
 This is added to my daily rate, and so does not impact my income.
 
 It impacts expenditure, this can be optimised by ensuring purchases for the business over 2000 GBP are made through the business.
