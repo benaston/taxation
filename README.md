@@ -22,9 +22,9 @@ Massively complicated, but works out around **10%** per unit income/month.
 Depends on your overall income tax band:
 
 
- upto 32,010 | **10%**
- 32,1010 to 150k | **32.5%**
- 150k+ | **37.5%**
+| upto 32,010 | **10%**
+| 32,1010 to 150k | **32.5%**
+| 150k+ | **37.5%**
 
 ###VAT
 
