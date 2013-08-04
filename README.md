@@ -21,7 +21,7 @@ Massively complicated, but works out around **10%** per unit income/month.
 
 Amount: 
 
-        Income Tax Band
+      Income Tax Band   Percentage of Dividend
     | upto 32,010     | **10%**
     | 32,1010 to 150k | **32.5%**
     | 150k+           | **37.5%**
