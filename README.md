@@ -19,7 +19,7 @@ Massively complicated, but works out around **10%** per unit income/month.
 
 ###Dividend Tax
 
-Amount: 
+####Amount
 
       Income Tax Band   Percentage of Dividend
     | upto 32,010     | **10%**
@@ -28,8 +28,13 @@ Amount:
 
 ###VAT
 
-Amount: **13%** (but bill at **20%** to cover the loss of the ability to reclaim the VAT for purchases under 2000 GBP)
-Paid: **quartely** calculated on invoices submitted during that quarter.
+####Amount
+
+**13%** (but bill at **20%** to cover the loss of the ability to reclaim the VAT for purchases under 2000 GBP)
+
+####Paid
+
+**quartely** calculated on invoices submitted during that quarter.
 
 Notes:
 
