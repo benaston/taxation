@@ -6,7 +6,7 @@
 
  Amount: **20%** paid on annual profits up to 300k.
  
- **Paid:** **Yearl**y.
+ **Paid:** **Yearly**.
 
 ###Income Tax
 
