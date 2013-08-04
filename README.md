@@ -1,14 +1,12 @@
 #Taxation
 
-##Types of Taxes
-
-###Corporation Tax
+##Corporation Tax
 
  **Amount:** **20%** paid on annual profits up to 300k.
  
  **Paid:** **Yearly**.
 
-###Income Tax
+##Income Tax
 
 **Amount:**
 
@@ -20,13 +18,13 @@
     
  **Paid:** Unknown.
 
-###National Insurance
+##National Insurance
 
 **Amount:** Massively complicated, but works out around **10%** per gross unit salary/month.
 
 **Paid:** **Every 6 months.**
 
-###Dividend Tax
+##Dividend Tax
 
 **Amount:**
 
@@ -35,7 +33,7 @@
     |   32,1010 to 150k |   32.5%
     |   150k+           |   37.5%
 
-###VAT
+##VAT
 
 **Amount:** **13%** (but bill at **20%** to cover the loss of the ability to reclaim the VAT for purchases under 2000 GBP)
 
