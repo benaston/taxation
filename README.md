@@ -12,7 +12,7 @@
 
 **Amount:**
 
-            Income     Percentage of Dividend
+            Income     Percentage Taxation
     |   upto 9,440        |   zero
     |   ...then upto 35k  |   20%
     |   ...then upto 150k |   40%
