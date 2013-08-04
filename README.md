@@ -12,11 +12,12 @@
 
 **Amount:**
 
- - £9,440 tax free ("personal allowance" - "thank you" tax-man)
- - Upto 35k above personal allowance **20%*
- - 35k to 150k **40%**
- - 150k+ **45%**
- - 
+            Income     Percentage of Dividend
+    |   upto 9,440        |   zero
+    |   ...then upto 35k  |   20%
+    |   ...then upto 150k |   40%
+    |   ...then upwards   |   45%
+    
  **Paid:** Unknown.
 
 ###National Insurance
