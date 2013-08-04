@@ -1,5 +1,4 @@
 #Taxation
-========
 
 ##Types of Taxes
 
