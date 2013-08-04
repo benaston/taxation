@@ -4,7 +4,7 @@
 
 ###Corporation Tax
 
- Amount: **20%** paid on annual profits up to 300k.
+ **Amount:** **20%** paid on annual profits up to 300k.
  
  **Paid:** **Yearly**.
 
@@ -29,10 +29,10 @@
 
 **Amount:**
 
-      Income Tax Band   Percentage of Dividend
-    | upto 32,010     | **10%**
-    | 32,1010 to 150k | **32.5%**
-    | 150k+           | **37.5%**
+      Income Tax Band     Percentage of Dividend
+    |   upto 32,010     |   10%
+    |   32,1010 to 150k |   32.5%
+    |   150k+           |   37.5%
 
 ###VAT
 
