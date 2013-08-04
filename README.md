@@ -4,22 +4,30 @@
 
 ###Corporation Tax
 
- - **20%** paid on annual profits up to 300k.
+ Amount: **20%** paid on annual profits up to 300k.
+ 
+ **Paid:** **Yearl**y.
 
 ###Income Tax
+
+**Amount:**
 
  - £9,440 tax free ("personal allowance" - "thank you" tax-man)
  - Upto 35k above personal allowance **20%*
  - 35k to 150k **40%**
  - 150k+ **45%**
+ - 
+ **Paid:** Unknown.
 
 ###National Insurance
 
-Massively complicated, but works out around **10%** per unit income/month.
+**Amount:** Massively complicated, but works out around **10%** per gross unit salary/month.
+
+**Paid:** **Every 6 months.**
 
 ###Dividend Tax
 
-####Amount
+**Amount:**
 
       Income Tax Band   Percentage of Dividend
     | upto 32,010     | **10%**
@@ -28,17 +36,11 @@ Massively complicated, but works out around **10%** per unit income/month.
 
 ###VAT
 
-####Amount
+**Amount:** **13%** (but bill at **20%** to cover the loss of the ability to reclaim the VAT for purchases under 2000 GBP)
 
-**13%** (but bill at **20%** to cover the loss of the ability to reclaim the VAT for purchases under 2000 GBP)
+**Paid:** **quartely** calculated on gross invoices (before VAT obviously) submitted during that quarter.
 
-####Paid
-
-**quartely** calculated on invoices submitted during that quarter.
-
-Notes:
-
-This is added to my daily rate, and so does not impact my income.
+**Notes:** VAT is added to daily rate, and so does not impact income per-se.
 
 It impacts expenditure, this can be optimised by ensuring purchases for the business over 2000 GBP are made through the business.
 
