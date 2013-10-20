@@ -32,6 +32,11 @@ List of personal income. Shares, dividends, inheritance, capital gains, interest
 I have to calculate this because being a director of a company means that I fall within the category requiring "self assessment" (i.e. my PAYE is not calculated on my behalf by my employer).
 Submitted after 5rd April each year, but must be in by midnight 31st January on the following year (or midnight 31st October that year if not submitted online).
 
+Late Penalties:
+ - 1 day: £100
+ - £10/day thereafter upto 90 days
+ - ...then 5% of the tax, or £300 whichever is the greater
+
 ##Receipts
 You need to keep receipts, should the Inland Revenue need to investigate purchases made throught the company. Anything over 2k needs to have a receipt submitted.
 
