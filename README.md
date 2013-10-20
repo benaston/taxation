@@ -20,11 +20,8 @@ Returns are the documents that need to be sent by law to the Inland Revenue.
  - Company type (e.g. LTD, LLP etc)
  - Registered Office Address
  - Directors details (name, address, age, nationality, job title)
- - Shareholdings (i.e. how many shares and who owns them)
+ - Shareholdings (i.e. how many shares and who owns them)<br/>
 *Code:* AR01<br/>
-
-
-due on October 11th each year. Costs £13/time.
 
 ###Annual Company Accounts Tax Return
 Doing the maths for the Inland Revenue. Calculating corporation tax, showing the working.
