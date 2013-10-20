@@ -28,7 +28,8 @@ Returns are the documents that need to be sent by law to the Inland Revenue.
 Doing the maths for the Inland Revenue. Calculating corporation tax, showing the working.
 
 ###Annual Personal Tax Return
-Submitted after 5rd April each year, but must be in by the end of January on the following year.
+I have to calculate this because being a director of a company means that I fall within the category requiring "self assessment".
+Submitted after 5rd April each year, but must be in by midnight 31st January on the following year (or midnight 31st October that year if not online).
 
 ##Receipts
 You need to keep receipts, should the Inland Revenue need to investigate purchases made throught the company. Anything over 2k needs to have a receipt submitted.
