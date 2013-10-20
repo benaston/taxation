@@ -13,10 +13,10 @@ Returns are the documents that need to be sent by law to the Inland Revenue.
 ###Annual Company Return (the "annual return")
 *Due:* Annually, October 11th<br/>
 *Cost:* £13/time<br/>
-*Purpose:* confirms the following company details:<br/>
+*Purpose:* Confirms the following company details:<br/>
  - Company Name
  - Company Number
- - Trade Classification Code (this is the code identifying the "principal business activity"
+ - Trade Classification Code (this is the code identifying the "principal business activity")
  - Company type (e.g. LTD, LLP etc)
  - Registered Office Address
  - Directors details (name, address, age, nationality, job title)
