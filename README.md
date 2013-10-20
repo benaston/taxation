@@ -1,6 +1,6 @@
 #Taxation
 
-ompany return annual, confirms the details of the company (October 11th)
+Company return annual, confirms the details of the company (October 11th)
 need personal statements for personal tax returns (end of January)
 company accounts in end of June
 we give him all the information for June in September
@@ -11,7 +11,19 @@ VAT paid quarterly - due (i.e. paid by) month after the end of the quarter (e.g 
 Returns are the documents that need to be sent by law to the Inland Revenue.
 
 ###Annual Company Return (the "annual return")
-Confirms the details of the company, due on October 11th each year. Costs £13/time.
+*Due:* Annually, October 11th
+*Cost:* £13/time
+*Purpose:* confirms the following company details:
+ - Company Name
+ - Company Number
+ - Trade Classification Code (this is the code identifying the "principal business activity"
+ - Company type (e.g. LTD, LLP etc)
+ - Registered Office Address
+ - Directors details (name, address, age, nationality, job title)
+ - Shareholdings (i.e. how many shares and who owns them)
+
+
+due on October 11th each year. Costs £13/time.
 
 ###Annual Company Accounts Tax Return
 Doing the maths for the Inland Revenue. Calculating corporation tax, showing the working.
@@ -20,7 +32,7 @@ Doing the maths for the Inland Revenue. Calculating corporation tax, showing the
 Submitted after 5rd April each year, but must be in by the end of January on the following year.
 
 ##Receipts
-You need to keep receipts, should the Inland Revenue need to investigate purchases made throught the company.
+You need to keep receipts, should the Inland Revenue need to investigate purchases made throught the company. Anything over 2k needs to have a receipt submitted.
 
 
 ##Corporation Tax
