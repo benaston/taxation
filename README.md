@@ -1,10 +1,35 @@
 #Taxation
 
+ompany return annual, confirms the details of the company (October 11th)
+need personal statements for personal tax returns (end of January)
+company accounts in end of June
+we give him all the information for June in September
+VAT paid quarterly - due (i.e. paid by) month after the end of the quarter (e.g end of the quarter) - add VAT up, multiply by a multiplayer for the business. any purchase over 2k individually dealt with (you need to let know quarterly explicitly that there have been some or no purchases over 2k)
+
+
+##Returns 
+Returns are the documents that need to be sent by law to the Inland Revenue.
+
+###Annual Company Return (the "annual return")
+Confirms the details of the company, due on October 11th each year. Costs £13/time.
+
+###Annual Company Accounts Tax Return
+Doing the maths for the Inland Revenue. Calculating corporation tax, showing the working.
+
+###Annual Personal Tax Return
+Submitted after 5rd April each year, but must be in by the end of January on the following year.
+
+##Receipts
+You need to keep receipts, should the Inland Revenue need to investigate purchases made throught the company.
+
+
 ##Corporation Tax
 
- **Amount:** **20%** paid on annual profits up to 300k.
+**Amount:** **20%** paid on annual profits up to 300k.
  
- **Paid:** **Yearly**.
+ **Paid:** **Annually**.
+ 
+Calculated inside the annual return, and have 30 days to pay after that. They send back a corporation tax demand based on the return.
 
 ##Income Tax
 
