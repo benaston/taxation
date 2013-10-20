@@ -37,7 +37,7 @@ You need to keep receipts, should the Inland Revenue need to investigate purchas
 
 ##Corporation Tax
 
-**Amount:** **20%** paid on annual profits up to 300k.
+**Amount:** **20%** paid on annual profits up to 300k (the "small profits rate").
  
  **Paid:** **Annually**.
  
