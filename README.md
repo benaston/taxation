@@ -11,7 +11,7 @@ VAT paid quarterly - due (i.e. paid by) month after the end of the quarter (e.g 
 Returns are the documents that need to be sent by law to the Inland Revenue.
 
 ###Annual Company Return (the "annual return")
-*Due:* Annually, October 11th
+*Due:* Annually, October 11th<br/>
 *Cost:* £13/time
 *Purpose:* confirms the following company details:
  - Company Name
@@ -21,6 +21,7 @@ Returns are the documents that need to be sent by law to the Inland Revenue.
  - Registered Office Address
  - Directors details (name, address, age, nationality, job title)
  - Shareholdings (i.e. how many shares and who owns them)
+*Code:* AR01
 
 
 due on October 11th each year. Costs £13/time.
