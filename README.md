@@ -20,7 +20,8 @@ Returns are the documents that need to be sent by law to the Inland Revenue.
  - Company type (e.g. LTD, LLP etc)
  - Registered Office Address
  - Directors details (name, address, age, nationality, job title)
- - Shareholdings (i.e. how many shares and who owns them)<br/><br/>
+ - Shareholdings (i.e. how many shares and who owns them)
+
 *Code:* AR01<br/>
 
 ###Annual Company Accounts Tax Return
