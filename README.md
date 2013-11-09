@@ -28,7 +28,17 @@ Returns are the documents that need to be sent by law to the Inland Revenue.
 Doing the maths for the Inland Revenue. Calculating corporation tax, showing the working.
 
 ###Annual Personal Tax Return
-List of personal income. Shares, dividends, inheritance, capital gains, interest earned.
+The government automatically takes 20% of the interest earned on savings (unless you know you are poor and you sign a form).
+Any money in a savings account is automatically taxed.
+Interest is added to income that contributes to the number used for income tax pruposes.
+List of personal income:
+
+ - Shares
+ - dividends
+ - inheritance
+ - capital gains
+ - interest earned
+ 
 I have to calculate this because being a director of a company means that I fall within the category requiring "self assessment" (i.e. my PAYE is not calculated on my behalf by my employer).
 Submitted after 5rd April each year, but must be in by midnight 31st January on the following year (or midnight 31st October that year if not submitted online).
 
